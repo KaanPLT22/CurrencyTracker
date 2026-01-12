@@ -15,7 +15,6 @@ Bu proje, modern C# / .NET teknolojileri kullanılarak geliştirilmiştir. Haric
 
 Veri analizi ve filtreleme işlemleri için LINQ yoğun olarak kullanılmıştır. Uygulamada Select, Where, OrderBy, OrderByDescending, Count, Max, Min ve Average gibi LINQ operatörleri uygulanarak döviz verileri üzerinde hızlı ve esnek sorgulamalar yapılabilmektedir. Bu sayede kullanıcı, dövizleri listeleyebilir, filtreleyebilir, sıralayabilir ve istatistiksel özetler elde edebilir.
 
-Ayrıca proje boyunca Clean Code prensipleri benimsenmiş, kodun okunabilirliği, modülerliği ve sürdürülebilirliği ön planda tutulmuştur. Bu yapı sayesinde hem geliştirici deneyimi iyileştirilmiş hem de uygulamanın bakımı kolaylaştırılmıştır.
 ---
 
 ## ⚙️ Özellikler
